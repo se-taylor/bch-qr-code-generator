@@ -1,0 +1,11 @@
+.bchqrc-admin-wrapper .bchqrc-logo,
+.bchqrc-admin-wrapper .bchqrc-admin-title h1 {
+  display: inline-block;
+  vertical-align: middle;
+}
+.bchqrc-admin-wrapper #bchqrc-indicator {
+  width: 100px;
+  height: auto;
+  display: inline-block;
+  vertical-align: middle;
+}
